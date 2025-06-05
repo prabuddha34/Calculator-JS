@@ -14,11 +14,7 @@ A sleek, modern calculator built using **HTML**, **CSS**, and **JavaScript**. Th
 
 ---
 
-## 🚀 Demo
 
-👉 [Live Demo Link](#) *(Add your GitHub Pages/Netlify/Vercel link here)*
-
----
 
 ## 🛠️ Technologies Used
 
@@ -28,10 +24,3 @@ A sleek, modern calculator built using **HTML**, **CSS**, and **JavaScript**. Th
 
 ---
 
-## 🖼️ Screenshot
-
-*(Insert a screenshot of your calculator UI here)*
-
-```html
-<!-- Example if you're hosting screenshots -->
-<img src="screenshots/calculator.png" width="300px" alt="Modern Calculator Screenshot">
