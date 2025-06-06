@@ -9,7 +9,7 @@ A sleek, modern calculator built using **HTML**, **CSS**, and **JavaScript**. Th
 - Responsive design with modern UI
 - Basic arithmetic operations: `+`, `−`, `×`, `÷`
 - Decimal support
-- Clear (`C`) and Calculate (`=`) functionality
+- Clear (`C`) and Calculate (`=`) functionalit
 - Lightweight and fast
 
 ---
